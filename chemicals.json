@@ -1,0 +1,580 @@
+{
+ "items": [
+  {
+   "id": "c000",
+   "n": "2-Propanol",
+   "a": "2,5 L",
+   "l": "S2",
+   "s": "h",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c001",
+   "n": "2xYT Medium",
+   "a": "620 g",
+   "l": "S2",
+   "s": "s",
+   "d": false,
+   "t": "powder"
+  },
+  {
+   "id": "c002",
+   "n": "Acetic acid",
+   "a": "1 L",
+   "l": "S2",
+   "s": "h",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c003",
+   "n": "Activated charcoal (acid-washed with hydrochloric acid)",
+   "a": "500 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c004",
+   "n": "Brilliant blue R250",
+   "a": "100 g",
+   "l": "S1",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c005",
+   "n": "Bromphenol blue",
+   "a": "5 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c006",
+   "n": "Calcium chloride dihydrate",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c007",
+   "n": "Chloramphenicol (HPLC)",
+   "a": "25 g",
+   "l": "S5",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c008",
+   "n": "Chloroform for HPLC, amylene stabilized",
+   "a": "1 L",
+   "l": "S2",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c009",
+   "n": "Copper (II) sulfate pentahydrate",
+   "a": "500 g",
+   "l": "S1",
+   "s": "h",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c010",
+   "n": "Dimethyl sulfoxide (DMSO)",
+   "a": "100 mL",
+   "l": "S1",
+   "s": "h",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c011",
+   "n": "Dodecyl sulfate sodium salt (SDS)",
+   "a": "100 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c012",
+   "n": "EDTA-disodium, Ethylenediamine tetraacetic acid Na2-salt-2H2O",
+   "a": "250 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c013",
+   "n": "Ethanol absolute",
+   "a": "1 L x3",
+   "l": "S2",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c014",
+   "n": "Glycerol (1,2,3-Propanetriol, Glycerin)",
+   "a": "500 mL x2",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c015",
+   "n": "Glycine",
+   "a": "1 kg",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c016",
+   "n": "Glycine (buffer substance)",
+   "a": "1 kg",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": "more in the corridor locker 3"
+  },
+  {
+   "id": "c017",
+   "n": "Glycine (suitable for electrophoresis)",
+   "a": "1 kg",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": "more in the corridor locker 3"
+  },
+  {
+   "id": "c018",
+   "n": "HEPES free acid Ultrapure",
+   "a": "2 kg",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": "more in the corridor locker 3"
+  },
+  {
+   "id": "c019",
+   "n": "Hydrochloric acid",
+   "a": "1 L",
+   "l": "S2",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c020",
+   "n": "imidazole",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c021",
+   "n": "L-(+)-Arabinose",
+   "a": "25 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c022",
+   "n": "LB Agar",
+   "a": "500 g",
+   "l": "S6",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c023",
+   "n": "LB Broth",
+   "a": "500 g",
+   "l": "S6",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c024",
+   "n": "LE Agarose Multi-purpose agarose",
+   "a": "500 g",
+   "l": "S6",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c025",
+   "n": "Magnesium chloride hexahydrate",
+   "a": "100 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c026",
+   "n": "Methanol",
+   "a": "1 L",
+   "l": "S2",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c027",
+   "n": "Phenylmethylsulfonyl Fluoride (PMSF)",
+   "a": "5g x3",
+   "l": "S1",
+   "s": "h",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c028",
+   "n": "Phosphate buffered saline (PBS)",
+   "a": "100 tab",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": "tablet form; more in the corridor locker 3"
+  },
+  {
+   "id": "c029",
+   "n": "Potassium chloride",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c030",
+   "n": "Potassium iodide",
+   "a": "100 g",
+   "l": "S1",
+   "s": "h",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c031",
+   "n": "Potassium sodium L-tartrate tetrahydrate",
+   "a": "250 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c032",
+   "n": "Sodium butyrate (Butyric acid sodium salt)",
+   "a": "100 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c033",
+   "n": "Sodium chloride",
+   "a": "1 kg",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": "more in the corridor locker 3"
+  },
+  {
+   "id": "c034",
+   "n": "Sodium hydroxide, pellets (anhydrous), 'Caustic soda'",
+   "a": "500 g",
+   "l": "S2",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c035",
+   "n": "Trizma base, primary standard and buffer",
+   "a": "1 kg",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": "crystalline"
+  },
+  {
+   "id": "c036",
+   "n": "Milk powder",
+   "a": "1000 g",
+   "l": "S2",
+   "s": "r",
+   "d": false,
+   "t": "Also listed on Shelf 6"
+  },
+  {
+   "id": "c037",
+   "n": "Sephadex G-50",
+   "a": "10 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c038",
+   "n": "Bio-Beads SM-2 Adsorbent",
+   "a": "25 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c039",
+   "n": "5(6)-Carboxyfluorescein",
+   "a": "5 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c040",
+   "n": "y-Cyclodextrin",
+   "a": "100 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c041",
+   "n": "Protoporphyrin IX disodium salt",
+   "a": "1 g",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c042",
+   "n": "Digitonin",
+   "a": "2g",
+   "l": "S1",
+   "s": "h",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c043",
+   "n": "Ammonium Persulfate",
+   "a": "25 g (x4)",
+   "l": "S1",
+   "s": "h",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c044",
+   "n": "Triton X-100",
+   "a": "100 mL",
+   "l": "S1",
+   "s": "h",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c045",
+   "n": "Choline Chloride 98+%",
+   "a": "100 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c046",
+   "n": "Iron (II) chloride hydrate, reagent Grade, 99%",
+   "a": "250 g",
+   "l": "S1",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c047",
+   "n": "D-(+)-Glucose, ahydrous, 99%",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c048",
+   "n": "Sucrose, Molecular Biology Grade",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c049",
+   "n": "Potassium phosphate dibasic (dipotassium hydrogenphosphate)",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c050",
+   "n": "Sodium phosphate dibasic, heptahydrate (disodium hydrogenphosphate heptahydrate)",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c051",
+   "n": "Sodium phosphate monobasic, monohydrate (monosodium phosphate)",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c052",
+   "n": "Potassium phosphate monobasic (potassium dihydrogen phosphate)",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c053",
+   "n": "Zinc chloride, reagent grade, 98%",
+   "a": "100 g",
+   "l": "S1",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c054",
+   "n": "Iron (III) chloride hexahydrate, ACS reagent , 97%",
+   "a": "100 g",
+   "l": "S1",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c055",
+   "n": "Bovine Serum Albumin (BSA)",
+   "a": "50 g",
+   "l": "F",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c056",
+   "n": "Tween-20",
+   "a": "50 mL",
+   "l": "S1",
+   "s": "r",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c057",
+   "n": "Ethanolamine",
+   "a": "100 mL",
+   "l": "S1",
+   "s": "r",
+   "d": true,
+   "t": ""
+  },
+  {
+   "id": "c058",
+   "n": "Dynamis AGT Medium",
+   "a": "10 L",
+   "l": "F",
+   "s": "f",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c059",
+   "n": "Magnesium Sulfate Heptahydrate 99+%",
+   "a": "1 kg",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c060",
+   "n": "Rubidium chloride, 99.8+% (trace metal basis)",
+   "a": "10 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c061",
+   "n": "Acetic acid, potassium salt (KAc), 99+%, for analysis",
+   "a": "500 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c062",
+   "n": "MOPS, 99% (4-Morpholinopropansulfon)",
+   "a": "25 g",
+   "l": "S1",
+   "s": "s",
+   "d": false,
+   "t": ""
+  },
+  {
+   "id": "c063",
+   "n": "Manganese (II) chloride (MnCl2) tetrahydrate, 99.99%",
+   "a": "5 g",
+   "l": "S1",
+   "s": "h",
+   "d": true,
+   "t": ""
+  }
+ ]
+}

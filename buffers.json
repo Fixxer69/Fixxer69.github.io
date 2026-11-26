@@ -1,0 +1,270 @@
+{
+ "items": [
+  {
+   "id": "b000",
+   "n": "20 mM NaOH (StrepXT)",
+   "v": "~80 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b001",
+   "n": "3M MgCl2 (StrepXT)",
+   "v": "200 mL",
+   "p": "2025-09-02",
+   "t": ""
+  },
+  {
+   "id": "b002",
+   "n": "0,1M Citric acid",
+   "v": "200 mL",
+   "p": "2025-04-03",
+   "t": "make the new one"
+  },
+  {
+   "id": "b003",
+   "n": "StrepXT storage",
+   "v": "180 mL",
+   "p": "",
+   "t": "100 mM Tris pH 8.0, 150 mM NaCl, 1mM EDTA"
+  },
+  {
+   "id": "b004",
+   "n": "1M KCl",
+   "v": "400 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b005",
+   "n": "50% glycerol",
+   "v": "40 mL",
+   "p": "",
+   "t": "w/v"
+  },
+  {
+   "id": "b006",
+   "n": "0,5M NaCl",
+   "v": "200 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b007",
+   "n": "10x buffer, pH 7.4",
+   "v": "125 mL",
+   "p": "",
+   "t": "600 mM NaH2PO4, 3M NaCl"
+  },
+  {
+   "id": "b008",
+   "n": "Transfer buffer with 15% isopropanol",
+   "v": "400 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b009",
+   "n": "1M Tris pH 8.8",
+   "v": "250 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b010",
+   "n": "1M Tris pH 8.0",
+   "v": "100 mL",
+   "p": "2025-01-28",
+   "t": ""
+  },
+  {
+   "id": "b011",
+   "n": "1M Tris pH 7.4",
+   "v": "125 mL",
+   "p": "2024-09-11",
+   "t": ""
+  },
+  {
+   "id": "b012",
+   "n": "1M Tris HCl pH 6.8",
+   "v": "25 mL",
+   "p": "2024-06-05",
+   "t": ""
+  },
+  {
+   "id": "b013",
+   "n": "200 mM EDTA pH 8.0",
+   "v": "",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b014",
+   "n": "1M Sodium acetate",
+   "v": "100 mL",
+   "p": "2025-09-09",
+   "t": ""
+  },
+  {
+   "id": "b015",
+   "n": "0,1M Acetic acid",
+   "v": "150 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b016",
+   "n": "0,1M Sodium acetate + 0,5M NaCl pH 4.0",
+   "v": "50 mL",
+   "p": "2025-09-09",
+   "t": "anti-FLAG"
+  },
+  {
+   "id": "b017",
+   "n": "0,1M Sodium citrate",
+   "v": "200 mL",
+   "p": "2025-04-03",
+   "t": ""
+  },
+  {
+   "id": "b018",
+   "n": "2x low salt buffer 100 mM Hepes pH 7.4, 300 mM NaCl",
+   "v": "250 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b019",
+   "n": "NiNTA stripping buffer",
+   "v": "150 mL overall",
+   "p": "",
+   "t": "50 mM Hepes pH 7.4, 50 mM EDTA, 500 mM NaCl"
+  },
+  {
+   "id": "b020",
+   "n": "5% Lactose filtered-sterile",
+   "v": "35 mL + 50 mL",
+   "p": "2025-05-20",
+   "t": ""
+  },
+  {
+   "id": "b021",
+   "n": "1M MgSO4 sterile and filtered",
+   "v": "33 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b022",
+   "n": "1M MgCl2 sterile and filtered",
+   "v": "23 mL",
+   "p": "2024-06-11",
+   "t": ""
+  },
+  {
+   "id": "b023",
+   "n": "70% Et-OH filtered",
+   "v": "50 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b024",
+   "n": "20% L-arabinose (2000x)",
+   "v": "45 mL",
+   "p": "",
+   "t": "sterile"
+  },
+  {
+   "id": "b025",
+   "n": "1 M MgCl2 sterile",
+   "v": "7,5 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b026",
+   "n": "1M NaH2PO4",
+   "v": "50 mL + 45 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b027",
+   "n": "10% Glucose filtered-sterile",
+   "v": "50 mL + 17 mL",
+   "p": "2024-05-20",
+   "t": ""
+  },
+  {
+   "id": "b028",
+   "n": "PBS",
+   "v": "4 tablets",
+   "p": "",
+   "t": "1 in 200 mL"
+  },
+  {
+   "id": "b029",
+   "n": "1M CaCl2 filtered-sterile",
+   "v": "33 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b030",
+   "n": "Regeneration buffer 1M acetic acid pH 2.5",
+   "v": "25 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b031",
+   "n": "1M FeSO4",
+   "v": "10 mL",
+   "p": "",
+   "t": "light-sensitive"
+  },
+  {
+   "id": "b032",
+   "n": "0,1M Tris pH 8.0, 0,5M NaCl",
+   "v": "43 mL",
+   "p": "2025-09-09",
+   "t": "wash buffer for anti-FLAG resin"
+  },
+  {
+   "id": "b033",
+   "n": "1M Li-acetate",
+   "v": "40 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b034",
+   "n": "1M Na-acetate pH 7.5",
+   "v": "33 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b035",
+   "n": "1M MgCl2",
+   "v": "33 mL",
+   "p": "",
+   "t": ""
+  },
+  {
+   "id": "b036",
+   "n": "SMA 2000x",
+   "v": "",
+   "p": "",
+   "t": "powder"
+  },
+  {
+   "id": "b037",
+   "n": "1M MgSO4",
+   "v": "",
+   "p": "",
+   "t": ""
+  }
+ ]
+}
